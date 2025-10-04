@@ -22,7 +22,7 @@ This project was developed during the Morgan Stanley Code to Give Hackathon, whe
 ## 📋 Table of Contents
 
 - [Screenshots](#screenshots)
-- [Features](#features)
+- [Features](#-features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [User Roles](#user-roles)
